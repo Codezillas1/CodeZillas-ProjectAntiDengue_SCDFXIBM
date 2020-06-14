@@ -12,10 +12,10 @@ d) Link to detailed solution (with detailed descriptions): ___
 f) Step-by-step instructions to install software/run demo: __
 h) Demonstration, explanation of how it works: _
 i) What technologies were incorporated into solution: __
-    For Solution 1 (
-    For Solution 2 (
-    For Solution 3 (
-    For Solution 4 (
+    For Solution 1 (Drain Sensors), 
+    For Solution 2 (Detecting Weather Conditions), 
+    For Solution 3 (Object Detection), 
+    For Solution 4 (ChatBot-Dennis),
 
 __
 b
