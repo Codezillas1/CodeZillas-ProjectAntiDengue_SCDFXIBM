@@ -6,7 +6,9 @@ CodeZillas is a team consisting of Verlyn, Hongyu, Jannah, Cleven and Joshua
 We are tackling Problem Statement 4: Preventing the Spread. Our solution, Project Anti-Dengue, aims to reduce the manpower-intensive nature of patrolling by officers. While COVID-19 SARS-CoV2 virus dominates the news nowadays, there’s another virus that continues to spread in our communities - dengue. Current preventive measures are often manpower-intensive. Moreover, during a global health crisis like the current one, it becomes more difficult for officers to carry out patrolling duties.
 
 b) Link to Youtube video: ___
+
 c) Link to mindmap of proposed solution: ___
+
 d) Link to detailed solution (with detailed descriptions): https://docs.google.com/document/d/1TZgB6F1qOBqc9aVYQ3GkXsezLFHDEGaeLTX5B5uExmE/edit#
 f) Step-by-step instructions to install software/run demo:
     Solution 1: 
