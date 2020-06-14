@@ -10,7 +10,12 @@ b) Link to Youtube video: ___
 c) Link to mindmap of proposed solution: ___
 d) Link to detailed solution (with detailed descriptions): ___
 f) Step-by-step instructions to install software/run demo: __
-g) 
+h) Demonstration, explanation of how it works: _
+i) What technologies were incorporated into solution: __
+    For Solution 1 (
+    For Solution 2 (
+    For Solution 3 (
+    For Solution 4 (
 
 __
 b
