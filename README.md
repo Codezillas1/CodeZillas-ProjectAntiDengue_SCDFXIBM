@@ -14,7 +14,9 @@ Step-by-step instructions to install software/run demo:
     Use of node red and the code can be found here 
 https://github.com/Codezillas1/CodeZillas-ProjectAntiDengue_SCDFXIBM/blob/master/solution%201%20(CODES%20for%20sensor)
 
-    Solution 2:
+    Solution 2: Use of weather data can be found here https://developer.ibm.com/recipes/tutorials/weather-data-meets-ibm-cloud-part-1-ingestion-and-processing-of-weather-data/
+    NEA Weather API: https://api.data.gov.sg/v1/environment/4-day-weather-forecast
+    NEA Air Temperature API: https://api.data.gov.sg/v1/environment/air-temperature
     
     Solution 3:
     The model_android and model_ios directories can be found inside the folder named Object_Recognition_Model. 
