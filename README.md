@@ -5,12 +5,11 @@ CodeZillas is a team consisting of Verlyn, Hongyu, Jannah, Cleven and Joshua
 
 We are tackling Problem Statement 4: Preventing the Spread. Our solution, Project Anti-Dengue, aims to reduce the manpower-intensive nature of patrolling by officers. While COVID-19 SARS-CoV2 virus dominates the news nowadays, there’s another virus that continues to spread in our communities - dengue. Current preventive measures are often manpower-intensive. Moreover, during a global health crisis like the current one, it becomes more difficult for officers to carry out patrolling duties.
 
-b) Link to Youtube video: ___
+Link to Youtube video: ___
 
-c) Link to mindmap of proposed solution: ___
+Link to detailed solution (with detailed descriptions): https://docs.google.com/document/d/1TZgB6F1qOBqc9aVYQ3GkXsezLFHDEGaeLTX5B5uExmE/edit#
 
-d) Link to detailed solution (with detailed descriptions): https://docs.google.com/document/d/1TZgB6F1qOBqc9aVYQ3GkXsezLFHDEGaeLTX5B5uExmE/edit#
-f) Step-by-step instructions to install software/run demo:
+Step-by-step instructions to install software/run demo:
     Solution 1: 
     Use of node red and the code can be found here 
 https://github.com/Codezillas1/CodeZillas-ProjectAntiDengue_SCDFXIBM/blob/master/solution%201%20(CODES%20for%20sensor)
@@ -27,7 +26,7 @@ https://github.com/Codezillas1/CodeZillas-ProjectAntiDengue_SCDFXIBM/blob/master
     Chatbot Dennis can be found through this link. https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=e6979558-e5a3-49cb-86f7-3c954456770a&serviceInstanceID=997d6c06-8a26-4de6-9500-989f631a0e25 
 
 
-i) What technologies were incorporated into solution: __
+
     For Solution 1 (Drain Sensors), IBM Node-RED and Cloudant was used.
     For Solution 2 (Detecting Weather Conditions), IBM Functions, Cloud Storage and SQL Query was used.
     For Solution 3 (Object Detection), IBM Cloud Annotations and Watson Machine Learning was used.
