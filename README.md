@@ -7,8 +7,10 @@ https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-so
 
 a) Problem you are tackling and our proposed solution: ___
 b) Link to Youtube video: ___
-c) Link to mindmap of proposed solution: ____
-
+c) Link to mindmap of proposed solution: ___
+d) Link to detailed solution (with detailed descriptions): ___
+f) Step-by-step instructions to install software/run demo: __
+g) 
 
 __
 b
