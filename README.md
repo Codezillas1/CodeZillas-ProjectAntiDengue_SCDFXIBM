@@ -2,7 +2,9 @@
 Using IoT and mobile applications through IBM Cloud to fight dengue
 
 
-*enter URL here*
+*enter url here*
+https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=e6979558-e5a3-49cb-86f7-3c954456770a&serviceInstanceID=997d6c06-8a26-4de6-9500-989f631a0e25
+
 
 a) A short description of the problem you are tackling, how technology can help, as
 well as the idea your team is proposing*
