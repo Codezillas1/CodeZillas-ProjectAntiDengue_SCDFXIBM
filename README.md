@@ -2,12 +2,16 @@
 Using IoT and mobile applications through IBM Cloud to fight dengue
 
 
-*enter url here*
 https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=e6979558-e5a3-49cb-86f7-3c954456770a&serviceInstanceID=997d6c06-8a26-4de6-9500-989f631a0e25
 
 
-a) A short description of the problem you are tackling, how technology can help, as
-well as the idea your team is proposing*
+a) Problem you are tackling and our proposed solution: ___
+b) Link to Youtube video: ___
+c) Link to mindmap of proposed solution: ____
+
+
+__
+b
 b) Pitch Video*
 c) The architecture of your proposed solution*
 d) A hyperlink to your detailed solution* (Long description of your solution)
